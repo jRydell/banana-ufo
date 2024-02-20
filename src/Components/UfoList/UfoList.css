@@ -1,0 +1,20 @@
+.UfoList {
+    margin: 3rem 0;
+    h2 {
+        font-size: 2rem;
+        font-style: italic;
+        color: rgb(10, 91, 134);
+    }
+    ul {
+        list-style: none;
+
+        li {
+            margin: .5rem 0;
+
+            &:hover {
+                color: #646cff; 
+                cursor: pointer;
+            }
+        }
+    }
+}
