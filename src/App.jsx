@@ -9,8 +9,6 @@ const App = () => {
      <>
         <Header />
         <Button />
-        <Button />
-        <Button />
         <UfoList />
         
         
