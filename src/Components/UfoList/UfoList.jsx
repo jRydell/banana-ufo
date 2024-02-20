@@ -1,6 +1,7 @@
 const UfoList = () =>{
     return (
-    
+    <>
+    <h2>Ufo list</h2>
     <ul className="ufolist">
         <li>Millennium Falcon </li>
         <li>USS Enterprise </li>
@@ -14,6 +15,7 @@ const UfoList = () =>{
         <li>Heart of Gold</li>
     
     </ul>
+    </>
     
     )
     }
