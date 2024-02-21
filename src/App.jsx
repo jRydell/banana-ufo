@@ -6,10 +6,12 @@ import Button from "./Components/Button/Button.jsx";
 
 const App = () => {
     return (
-     <>
+    <>
+    <main className='Home'>
         <Header />
         <Button />
         <UfoList />
+    </main>    
         
         
         
